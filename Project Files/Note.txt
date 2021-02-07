@@ -1,0 +1,4 @@
+Since I used Nick's fork of Otter and the week 4 starter for 
+INFR2350 as a base, dropping the res and src into a new 
+project in otter should be enough to get a vs project that 
+you can run.
